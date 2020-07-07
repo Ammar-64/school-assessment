@@ -6,7 +6,7 @@
     "dependencies": {
         "mdbreact": "^4.19.0",
         "node-sass": "^4.12.0",
-        "npm": "^6.11.2",
+        "npm": "^6.14.6",
         "react": "^16.8.6",
         "react-dom": "^16.8.6",
         "react-scripts": "3.0.1"
